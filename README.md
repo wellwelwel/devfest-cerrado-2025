@@ -1,10 +1,10 @@
 # DevFest Cerrado 2025 — Google Developer Groups 🤠
 
+Material de referência e estudo da minha palestra para o **GDG DevFest Cerrado 2025**.
+
 <a href="https://www.devfestcerrado.com.br/">
   <img src="banner.png" width="360" >
 </a>
-
-> Material de referência e estudo da minha palestra para o **GDG DevFest Cerrado 2025**.
 
 ---
 
