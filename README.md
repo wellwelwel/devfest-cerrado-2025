@@ -4,7 +4,7 @@
   <img src="banner.png" width="360" >
 </a>
 
-> Material de Referência e de Estudo da minha palestra para o GDG DevFest Cerrado 2025.
+> Material de referência e estudo da minha palestra para o **GDG DevFest Cerrado 2025**.
 
 ---
 
