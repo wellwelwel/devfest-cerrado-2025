@@ -8,9 +8,9 @@
 
 ## 👾 Será que seu sistema é realmente seguro?
 
-No dia **13 de Dezembro**, eu vou palestrar no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) do [**Google Developer Groups**](https://gdg.community.dev/) e vou colocar à prova seu conhecimento sobre segurança.
+No dia **13 de Dezembro**, irei palestrar no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) do [**Google Developer Groups**](https://gdg.community.dev/) e vou colocar à prova seu conhecimento sobre segurança.
 
-Eu vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando tanto casos reais de vulnerabilidades, como de segurança:
+Vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando tanto casos reais de vulnerabilidades, como de segurança:
 
 - [**OWASP API3**](https://owasp.org/API-Security/editions/2019/en/0xa3-excessive-data-exposure/): Excessive Data Exposure
 - [**CWE-602**](https://cwe.mitre.org/data/definitions/602.html): Client-Side Enforcement of Server-Side Security
