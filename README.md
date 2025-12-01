@@ -1,0 +1,66 @@
+# DevFest Cerrado 2025 — Google Developer Groups 🤠
+
+<a href="https://www.devfestcerrado.com.br/">
+  <img src="banner.png" width="360" >
+</a>
+
+---
+
+## 👾 Será que seu sistema é realmente seguro?
+
+No dia **13 de Dezembro**, eu vou palestrar no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) do [**Google Developer Groups**](https://gdg.community.dev/) e vou colocar à prova seu conhecimento sobre segurança.
+
+Eu vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando tanto casos reais de vulnerabilidades, como de segurança:
+
+- [**OWASP API3**](https://owasp.org/API-Security/editions/2019/en/0xa3-excessive-data-exposure/): Excessive Data Exposure
+- [**CWE-602**](https://cwe.mitre.org/data/definitions/602.html): Client-Side Enforcement of Server-Side Security
+- [**CWE-213**](https://cwe.mitre.org/data/definitions/213.html): Intentional Information Exposure
+- [**CWE-200**](https://cwe.mitre.org/data/definitions/200.html): Exposure of Sensitive Information to an Unauthorized Actor
+- [**CWE-639**](https://cwe.mitre.org/data/definitions/639.html): Authorization Bypass Through User-Controlled Key
+- [**CWE-306**](https://cwe.mitre.org/data/definitions/306.html): Missing Authentication for Critical Function
+
+---
+
+Enquanto a gente aprende, com teoria, boas práticas de segurança, um invasor compromete, na vida real, sistemas de verdade.
+
+E esse assunto se faz ainda mais necessário na era da Inteligência Artificial, onde só gerar um _prompt_ como `“Crie um sistema sem falhas”`, não é o suficiente.
+
+> [!NOTE]
+>
+> Vale lembrar que ensinar não é incentivar: conhecer o ataque é uma forma de defesa e aprender com casos reais, te prepara pro o mundo real.
+
+Então bora lá, já prepara aquela pergunta dahora pro final da palestra e vem fazer um networking de qualidade no dia **13 de Dezembro**, no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) **2025**!
+
+---
+
+## 🎙️ Palestra
+
+### Do Código para o Mundo Real: O Ponto de Encontro entre Dados, Testes e Segurança
+
+- Testar o funcionamento da nossa aplicação? Isso é fácil.
+- Quebrar nossa aplicação antes do próprio usuário ou de um invasor? Essa é diferente.
+
+Vamos desmistificar tudo que você conhece por desenvolvimento e entender como tornar nossa aplicação previsível contra o imprevisível.
+
+Mais do que testar, você vai aprender a criar sistemas seguros (de verdade) e entender na prática o impacto da transformação dos dados da pior forma possível: através de invasões reais.
+
+E se você acha que segurança é só sobre código, até a LGPD vai passar por aqui pela perspectiva de alguém que conseguiu acessar nosso banco de dados na íntegra.
+
+Você vai perceber que testes não são uma tarefa a mais: eles fazem parte da nossa aplicação e são essenciais para a segurança digital e humana.
+
+---
+
+## 📽️ Slide
+
+- Irei disponibilizar ao voltar de viagem após o evento 🤞🏻
+
+---
+
+## 🔗 Links
+
+- **Evento**
+  - 🖥️ **Site:** https://www.devfestcerrado.com.br/
+  - 🎟️ **Ingressos:** https://doity.com.br/dfc25
+- **Redes Sociais**
+  - 📸 **Instagram:** https://www.instagram.com/gdg_goiania/
+  - 💼 **LinkedIn:** https://www.linkedin.com/company/gdggoiania/
