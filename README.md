@@ -4,6 +4,8 @@
   <img src="banner.png" width="360" >
 </a>
 
+> Material de Referência e de Estudo da minha palestra para o GDG DevFest Cerrado 2025.
+
 ---
 
 ## 👾 Será que seu sistema é realmente seguro?
