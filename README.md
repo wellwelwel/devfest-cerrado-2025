@@ -2,6 +2,8 @@
 
 Material de referência e estudo da minha palestra para o **GDG DevFest Cerrado 2025**.
 
+> Complemento teórico da palestra.
+
 <a href="https://www.devfestcerrado.com.br/">
   <img src="banner.png" width="360" >
 </a>
