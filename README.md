@@ -76,6 +76,7 @@ Entender os riscos em profundidade nos permite criar aplicações seguras de for
 
 - [**Google Antigravity**](https://antigravity.google/)
 - [**Gemini 3 Pro**](https://gemini.google.com)
+- [**Google Cloud Storage**](https://cloud.google.com/storage)
 
 ---
 
