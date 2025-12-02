@@ -80,6 +80,5 @@ Entender os riscos em profundidade nos permite criar aplicações seguras de for
 - **Evento**
   - 🖥️ **Site:** https://www.devfestcerrado.com.br/
   - 🎟️ **Ingressos:** https://doity.com.br/dfc25
-- **Redes Sociais**
   - 📸 **Instagram:** https://www.instagram.com/gdg_goiania/
   - 💼 **LinkedIn:** https://www.linkedin.com/company/gdggoiania/
