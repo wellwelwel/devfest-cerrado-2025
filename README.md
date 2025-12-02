@@ -15,11 +15,13 @@ No dia **13 de Dezembro**, irei palestrar no [**DevFest Cerrado**](https://www.d
 Vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando tanto casos reais de vulnerabilidades, como de segurança:
 
 - [**OWASP API3**](https://owasp.org/API-Security/editions/2019/en/0xa3-excessive-data-exposure/): Excessive Data Exposure
+- [**OWASP A04**](https://owasp.org/Top10/A04_2021-Insecure_Design/): Insecure Design
 - [**CWE-602**](https://cwe.mitre.org/data/definitions/602.html): Client-Side Enforcement of Server-Side Security
 - [**CWE-213**](https://cwe.mitre.org/data/definitions/213.html): Intentional Information Exposure
 - [**CWE-200**](https://cwe.mitre.org/data/definitions/200.html): Exposure of Sensitive Information to an Unauthorized Actor
 - [**CWE-639**](https://cwe.mitre.org/data/definitions/639.html): Authorization Bypass Through User-Controlled Key
 - [**CWE-306**](https://cwe.mitre.org/data/definitions/306.html): Missing Authentication for Critical Function
+- [**CWE-657**](https://cwe.mitre.org/data/definitions/657.html): Violation of Secure Design Principles
 
 ---
 
