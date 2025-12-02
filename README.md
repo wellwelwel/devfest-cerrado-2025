@@ -52,6 +52,23 @@ Você vai perceber que testes não são uma tarefa a mais: eles fazem parte da n
 
 ---
 
+## 🎓 O que estudar?
+
+Mesmo um sistema altamente protegido e sem vulnerabilidades dentro do código, pode ter vulnerabilidades arquiteturais e até mesmo comportamentais, sendo passíveis de engenharia reversa mesmo seguindo as melhores práticas do mercado.
+
+Entender os riscos em profundidade nos permite criar aplicações seguras de forma efetiva e não somente seguir boas práticas, combinando o melhor do conhecimento teórico com a experiência prática.
+
+### Termos e Tópicos
+
+- Engenharia Reversa _(através da arquitetura da própria Web moderna em si)_
+- Downloads em Massa _([**Google Cloud Storage**](https://cloud.google.com/storage), [**Azure Blob Storage**](https://azure.microsoft.com/pt-br/products/storage/blobs), [**Amazon S3**](https://aws.amazon.com/pt/s3/), [**Cloudflare R2**](https://www.cloudflare.com/pt-br/developer-platform/products/r2/), etc.)_
+- Exposição de Dados _(inspeção, análise e interceptação de tráfego através do do próprio navegador)_
+
+### Ferramentas de Destaque
+
+- [**Google Antigravity**](https://antigravity.google/)
+- [**Gemini 3 Pro**](https://gemini.google.com)
+
 ## 📽️ Slide
 
 - Irei disponibilizar ao voltar de viagem após o evento 🤞🏻
