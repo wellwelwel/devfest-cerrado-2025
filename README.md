@@ -12,7 +12,7 @@ Material de referência e estudo da minha palestra para o **GDG DevFest Cerrado 
 
 No dia **13 de Dezembro**, irei palestrar no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) do [**Google Developer Groups**](https://gdg.community.dev/) e vou colocar à prova seu conhecimento sobre segurança.
 
-Vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando tanto casos reais de vulnerabilidades, como de segurança:
+Vou trazer conteúdos que seriam complexos de verdade, de forma totalmente humana e acessível, mostrando na prática casos reais de vulnerabilidades e de segurança:
 
 - [**OWASP API3**](https://owasp.org/API-Security/editions/2019/en/0xa3-excessive-data-exposure/): Excessive Data Exposure
 - [**OWASP A04**](https://owasp.org/Top10/A04_2021-Insecure_Design/): Insecure Design
