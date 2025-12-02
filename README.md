@@ -75,12 +75,6 @@ Entender os riscos em profundidade nos permite criar aplicações seguras de for
 
 ---
 
-## 📽️ Slide
-
-- Irei disponibilizar ao voltar de viagem após o evento 🤞🏻
-
----
-
 ## 🔗 Links
 
 - **Evento**
