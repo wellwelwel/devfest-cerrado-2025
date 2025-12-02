@@ -60,14 +60,20 @@ Entender os riscos em profundidade nos permite criar aplicações seguras de for
 
 ### Termos e Tópicos
 
-- Engenharia Reversa _(através da arquitetura da própria Web moderna em si)_
-- Downloads em Massa _([**Google Cloud Storage**](https://cloud.google.com/storage), [**Azure Blob Storage**](https://azure.microsoft.com/pt-br/products/storage/blobs), [**Amazon S3**](https://aws.amazon.com/pt/s3/), [**Cloudflare R2**](https://www.cloudflare.com/pt-br/developer-platform/products/r2/), etc.)_
-- Exposição de Dados _(inspeção, análise e interceptação de tráfego através do do próprio navegador)_
+- **Exposição de Dados** _(inspeção, análise e interceptação de tráfego através do do próprio navegador)_
+- **Engenharia Reversa** _(através da arquitetura da própria Web moderna em si)_
+- **Downloads em Massa** _([**Google Cloud Storage**](https://cloud.google.com/storage), [**Azure Blob Storage**](https://azure.microsoft.com/pt-br/products/storage/blobs), [**Amazon S3**](https://aws.amazon.com/pt/s3/), [**Cloudflare R2**](https://www.cloudflare.com/pt-br/developer-platform/products/r2/), etc.)_
+
+### Conceitos
+
+- **Compliance**: é comum aprender como se prevenir de algo que não aconteceu ou até achar que esse é um tópico meramente burocrático, mas através das exigências da própria **LGPD**, quero te mostrar não apenas como se proteger, mas como lidar com invasões que já ocorreram.
 
 ### Ferramentas de Destaque
 
 - [**Google Antigravity**](https://antigravity.google/)
 - [**Gemini 3 Pro**](https://gemini.google.com)
+
+---
 
 ## 📽️ Slide
 
