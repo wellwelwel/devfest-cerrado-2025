@@ -23,13 +23,13 @@ Vou trazer conteúdos que seriam complexos de verdade, de forma totalmente human
 
 ---
 
-Enquanto a gente aprende, com teoria, boas práticas de segurança, um invasor compromete, na vida real, sistemas de verdade.
+Enquanto a gente aprende, com teoria, boas práticas de segurança, um invasor compromete sistemas de verdade na vida real.
 
 E esse assunto se faz ainda mais necessário na era da Inteligência Artificial, onde só gerar um _prompt_ como `“Crie um sistema sem falhas”`, não é o suficiente.
 
 > [!NOTE]
 >
-> Vale lembrar que ensinar não é incentivar: conhecer o ataque é uma forma de defesa e aprender com casos reais, te prepara pro o mundo real.
+> Vale lembrar que ensinar não é incentivar: conhecer o ataque é uma forma de defesa e aprender com casos reais, te prepara para o mundo real.
 
 Então bora lá, já prepara aquela pergunta dahora pro final da palestra e vem fazer um networking de qualidade no dia **13 de Dezembro**, no [**DevFest Cerrado**](https://www.devfestcerrado.com.br/) **2025**!
 
