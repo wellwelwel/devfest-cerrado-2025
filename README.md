@@ -68,7 +68,7 @@ Entender os riscos em profundidade nos permite criar aplicações seguras de for
 
 ### Conceitos
 
-- **Compliance**: é comum aprender como se prevenir de algo que não aconteceu ou até achar que esse é um tópico meramente burocrático, mas através das exigências da própria **LGPD**, quero te mostrar não apenas como se proteger, mas como lidar com invasões que já ocorreram.
+- **Compliance**: é comum aprender como se prevenir de algo que não aconteceu ou até achar que esse é um tópico meramente burocrático, mas através das exigências da própria **LGPD**, a intenção é te mostrar não apenas como se proteger, mas como lidar com invasões que **já** ocorreram.
 
 ### Ferramentas de Destaque
 
